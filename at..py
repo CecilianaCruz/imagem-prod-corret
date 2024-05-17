@@ -33,3 +33,5 @@ time.sleep(40)
 File.Quit()
 print('fechou')
 time.sleep(40)
+
+        
