@@ -5,3 +5,9 @@ time.sleep(8)
 posição = pyautogui.position()
 print(posição)
     
+
+
+
+
+
+
